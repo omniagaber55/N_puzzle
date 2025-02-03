@@ -6,5 +6,5 @@
 It employs a heuristic function (Manhattan Distance) to efficiently explore the state space and find the optimal solution.
 </h4>
 <h4>Lecturer: Dr/Sara Elmetwally</h4>
-<h4>Demonstrator: Zainab Rabie</h4>
+<h4>Demonstrator: Eng/Zainab Rabie</h4>
 <h4>Team member: Omnia Gaber,Esraa Nagib,Rana Hamdy</h4>
