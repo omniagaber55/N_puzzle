@@ -7,4 +7,4 @@ It employs a heuristic function (Manhattan Distance) to efficiently explore the 
 </h4>
 <h4>Lecturer: Dr/Sara Elmetwally</h4>
 <h4>Demonstrator: Zainab Rabie</h4>
-<h4>Team member:Omnia Gaber,Esraa Nagib,Rana Hamdy</h4>
+<h4>Team member: Omnia Gaber,Esraa Nagib,Rana Hamdy</h4>
