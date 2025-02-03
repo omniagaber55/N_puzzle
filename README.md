@@ -5,3 +5,6 @@
 <h4>The A* algorithm is used to find the shortest sequence of moves to solve the puzzle.
 It employs a heuristic function (Manhattan Distance) to efficiently explore the state space and find the optimal solution.
 </h4>
+<h4>Lecturer: Dr/Sara Elmetwally</h4>
+<h4>Demonstrator: Zainab Rabie</h4>
+<h4>Team member:Omnia Gaber,Esraa Nagib,Rana Hamdy</h4>
