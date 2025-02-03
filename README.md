@@ -1,1 +1,2 @@
-<h1>N_puzzle game with A* algorithm</h1>
+<h1>N-Puzzle Game Solver using A* Algorithm in C#</h1>
+<h2>The project of AI course</h2>
